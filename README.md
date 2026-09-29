@@ -58,14 +58,7 @@ Construyo plataformas web de punta a punta: requerimientos, arquitectura, APIs, 
 
 ---
 
-### 📊 Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=leonardogr15&show_icons=true&hide_border=true&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogr15&layout=compact&hide_border=true&locale=es)
-
----
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-galvis-ramirez-2424061b7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lgr456@hotmail.es)
